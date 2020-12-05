@@ -1,1 +1,1 @@
-print "CONGRATULATIONS✨✨✨"
+print("CONGRATULATIONS✨✨✨")
